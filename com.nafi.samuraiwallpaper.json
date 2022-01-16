@@ -1,7 +1,7 @@
 {
   "redirect" : {
 
-"JSON_POPUP_WAIT" : "Server Ready - v20j15",
+"JSON_POPUP_WAIT" : "Server Ready",
 
 "TOAST_NOTIF" : false,
 
@@ -30,8 +30,8 @@
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 "ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
 
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_BANNER" : "ca-app-pub-7767124927086641/3884409739",
+"ADMOB_INTER" : "ca-app-pub-7767124927086641/8442601841",
 
 "HPK_ALIENDROID" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
@@ -42,10 +42,10 @@
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "Interstitial",
-"UNITY_GAME_ID" : "4082115",
+"UNITY_GAME_ID" : "",
 "UNITY_TEST_MODE" : false,
 
-"STARAPPID" : "201365479",
+"STARAPPID" : "200247511",
 
 "APPLOVIN_BANNER_ID" : "ISIAN",
 "APPLOVIN_INTERSTITIAL_ID" : "ISIAN",
@@ -78,10 +78,10 @@ coba deh kamu donwload sekrang juga
 
 ",
 "MORE_BUTTON" : "SHARE VIA WHATSAPP",
-"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=packagename",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/developer?id=Nafi",
 
 "REDIRECT_TRAFFIC" : false,
-"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=packagename"
+"LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=Nafi"
 
 
   }
