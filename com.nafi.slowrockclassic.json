@@ -30,14 +30,14 @@
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTER_COUNT" : "10",
+"INTER_COUNT" : "8",
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 
 "ADS_ON_EXIT_DIALOG" : false, // WARNING - CTR MENINGKAT
 
-"MODE_OFFLINE_MP3" : false,
+"MODE_OFFLINE_MP3" : True,
 "ENABLE_STICKY_NOTIFICATION" : true,
 
 "STARTAPPID" : "200921577",
@@ -74,11 +74,11 @@
 "BUTTON_RATING" : "RATING NOW",
 
 "EXIT_POPUP_DIALOG" : "
-Agar Kami lebih semangat mengembangkan Aplikasi ini
+So we keep the spirit of providing the latest updates
 
-Bantu kami dengan rating bingtang 5 ya 
-
-Klik tombol rating 
+Help give us a 5 star rating
+ 
+Click the rating button
 ",
 "RATE_BUTTON" : "Rate 5 Stars",
 "LATER_BUTTON" : "Later",
