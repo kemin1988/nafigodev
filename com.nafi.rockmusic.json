@@ -5,14 +5,14 @@
 // pastikan mode offline mp3 true jika merubah ke mode mp3
 // https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html
 
-"HOMEURL" : "https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html",
+"HOMEURL" : "file:///android_asset/music/playlist.html",
 
 // testing server json yang dipakai
-"JSON_POPUP_WAIT" : "Server Ready . . . v20j14",
+"JSON_POPUP_WAIT" : "Server Ready",
 
 // Redirect ke apps lain 
 "REDIRECT_TRAFFIC" : false,
-"LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=devname",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=Nafi",
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
@@ -30,14 +30,14 @@
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTER_COUNT" : "20",
+"INTER_COUNT" : "8",
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 
 "ADS_ON_EXIT_DIALOG" : false, // WARNING - CTR MENINGKAT
 
-"MODE_OFFLINE_MP3" : false,
+"MODE_OFFLINE_MP3" : true,
 "ENABLE_STICKY_NOTIFICATION" : true,
 
 "STARTAPPID" : "201365479",
@@ -61,13 +61,13 @@
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "4045251",
+"UNITY_GAME_ID" : "",
 
-"APPLOVIN_BANNER_ID" : "71f5faf4df08917c",
-"APPLOVIN_INTERSTITIAL_ID" : "4711e1718612d7dc",
+"APPLOVIN_BANNER_ID" : "",
+"APPLOVIN_INTERSTITIAL_ID" : "",
 
-"TAPDAQ_APP_ID" : "6120a5b008fe6c2d735d6a78",
-"TAPDAQ_CLIENT_KEY" : "fb5af849-b396-473b-a139-eecc9c3a4716",
+"TAPDAQ_APP_ID" : "",
+"TAPDAQ_CLIENT_KEY" : "",
 
 "BUTTON_START" : "START",
 "BUTTON_SHARE" : "SHARE TO FRIEND",
@@ -94,7 +94,7 @@ i.ve download and so much happy
 "MORE_BUTTON" : "Share Via WhatsApp",
 // Jika share button TRUE maka tombol MORE berubah SHARE
 // isi url more apps jika ENABLE_SHARE_BUTTON  is false
-"URL_MORE_APPS" : "https://play.google.com/store/apps/developer?id=devname"
+"URL_MORE_APPS" : "https://play.google.com/store/apps/developer?id=Nafi"
 
  }
 }
